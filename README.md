@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Nobuhito Arai</h1>
 <h3 align="center">I'm programer.</h3>
 
