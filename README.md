@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nobuhito Arai
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=n06ar&show_icons=true&count_private=true)
+![n06Ar's github stats](https://github-readme-stats.vercel.app/api?username=n06ar&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n06ar)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
