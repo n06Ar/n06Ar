@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nobuhito Arai
 
-<iframe width="100%" src="https://pixe.la/v1/users/n06ar/graphs/git-commit.html">Git Commit Heatmap</iframe>
+![n06Ar's Git commit status](https://pixe.la/v1/users/n06ar/graphs/git-commit)
 ![n06Ar's github stats](https://github-readme-stats.vercel.app/api?username=n06ar&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n06ar&layout=compact)
 
