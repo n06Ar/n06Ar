@@ -4,6 +4,8 @@
 
 Hello, I'm **n06Ar**. I'm a web developer. 🧐
 
+<div style="clear: both;"></div>
+
 ## All Commit Status
 
 ![n06Ar's Git commit status](https://pixe.la/v1/users/n06ar/graphs/git-commit)
