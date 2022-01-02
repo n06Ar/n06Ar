@@ -1,10 +1,9 @@
 # Hi 👋
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n06ar&layout=compact" alt="n06Ar's Most used language">
-
-Hello, I'm **n06Ar**. I'm a web developer. 🧐
-
-<div style="clear: both;"></div>
+<div style="display: flex;">
+    <p style="flex-basis:45%;">Hello, I'm <b>n06Ar</b>. I'm a web developer. 🧐</p>
+    <img style="flex-basis:45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n06ar&layout=compact" alt="n06Ar's Most used language">
+</div>
 
 ## All Commit Status
 
