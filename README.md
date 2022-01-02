@@ -38,9 +38,3 @@ Hello, I'm **n06Ar**. I'm a web developer. 🧐
 [![Infrastructure-Heroku](https://img.shields.io/badge/Infrastructure-Heroku-430098?style=flat&logo=Heroku)](https://heroku.com/)
 [![CI-GitHub%20Actions](https://img.shields.io/badge/CI-GitHub%20Actions-222222?style=flat&logo=GitHub%20Actions)](https://github.com/features/actions)
 [![Git-GitHub](https://img.shields.io/badge/Git-GitHub-181717?style=flat&logo=GitHub)](https://github.com)
-
-## SNS
-
-<p align="center"> 
-<a href="https://twitter.com/@n06ar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@n06ar" height="30" width="30" /></a>
-</p>
