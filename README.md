@@ -9,7 +9,7 @@
 
 ## All Commit Status
 
-![n06Ar's Git commit status](https://pixe.la/v1/users/n06ar/graphs/git-commit)
+[![n06Ar's Git commit status](https://pixe.la/v1/users/n06ar/graphs/git-commit)](https://pixe.la/v1/users/n06ar/graphs/git-commit.html)
 
 ## Tools & Interests
 
