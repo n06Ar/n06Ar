@@ -10,7 +10,7 @@
 
 ## Tools & Interests
 
-[![macOS-Tahoe](https://img.shields.io/badge/macOS-Tahoe-483d8b?style=flat&logo=Apple)](https://www.apple.com/jp/macos/tahoe/)
+[![macOS](https://img.shields.io/badge/macOS--483d8b?style=flat&logo=Apple)](https://www.apple.com/jp/macos/)
 [![Linux-Centos](https://img.shields.io/badge/Linux-Centos-262577?style=flat&logo=centos)](https://www.centos.org)
 [![IDE-Webstorm](https://img.shields.io/badge/IDE-Webstorm-1e90ff?style=flat&logo=webstorm)](https://www.jetbrains.com/ja-jp/webstorm/)
 [![Terminal-iTerm2](https://img.shields.io/badge/Terminal-iTerm2-000000?style=flat&logo=iterm2)](https://iterm2.com)
