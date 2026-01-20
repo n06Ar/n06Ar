@@ -18,7 +18,6 @@
 [![JavaScript-Node.js](https://img.shields.io/badge/JavaScript-Node.js-339933?style=flat&logo=Node.js)](https://nodejs.org/)
 [![JavaScript-Vite](https://img.shields.io/badge/JavaScript-Vite-646CFF?style=flat&logo=Vite)](https://vitejs.dev)
 [![JavaScript-Webpack](https://img.shields.io/badge/JavaScript-Webpack-8DD6F9?style=flat&logo=webpack)](https://webpack.js.org)
-[![JavaScript-Snowpack](https://img.shields.io/badge/JavaScript-Snowpack-2E5E82?style=flat&logo=Snowpack)](https://www.snowpack.dev)
 [![JavaScript-Vue.js](https://img.shields.io/badge/JavaScript-Vue.js-4FC08D?style=flat&logo=Vue.js)](https://vuejs.org)
 [![JavaScript-React](https://img.shields.io/badge/JavaScript-React-61DAFB?style=flat&logo=React)](https://reactjs.org)
 [![JavaScript-Svelte](https://img.shields.io/badge/JavaScript-Svelte-FF3E00?style=flat&logo=Svelte)](https://svelte.dev)
@@ -32,7 +31,6 @@
 [![Java-Spring%20Boot](https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat&logo=Spring)](https://spring.io/)
 
 [![Infrastructure-AWS](https://img.shields.io/badge/Infrastructure-AWS-232F3E?style=flat&logo=amazon%20aws)](https://aws.amazon.com/)
-[![Infrastructure-GitHub%20Pages](https://img.shields.io/badge/Infrastructure-GitHub%20Pages-222222?style=flat&logo=GitHub%20Pages)](https://pages.github.com)
 [![Infrastructure-Heroku](https://img.shields.io/badge/Infrastructure-Heroku-430098?style=flat&logo=Heroku)](https://heroku.com/)
 [![CI-GitHub%20Actions](https://img.shields.io/badge/CI-GitHub%20Actions-222222?style=flat&logo=GitHub%20Actions)](https://github.com/features/actions)
 [![Git-GitHub](https://img.shields.io/badge/Git-GitHub-181717?style=flat&logo=GitHub)](https://github.com)
